@@ -3,7 +3,7 @@
 An interactive Power BI dashboard that analyzes employee data. It shows headcount, salary and leave days, and lets users break them down by department, education, gender and more.
 
 ## Dashboard Preview
-![Dashboard](HR Analytics Design.png)
+![Dashboard](HR%20Analytics%20Design.png)
 
 ## Features
 - KPI cards: Total Employees, Total Active Employees, Total Salary, Total Sick Days, Total Balance Days
@@ -13,7 +13,7 @@ An interactive Power BI dashboard that analyzes employee data. It shows headcoun
 
 ## Data
 Sample HR dataset provided during training.
-File: `data/HR_Data.xlsx`
+File: `Human Resources.xlsx`
 
 ## Tools Used
 - Power BI
